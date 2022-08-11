@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # baitap_5
 
 ## Project setup
@@ -28,6 +27,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# baitap_intern_5
->>>>>>> 928617142882ce1e774761ff8160cf1b100c574f
